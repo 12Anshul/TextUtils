@@ -57,5 +57,5 @@ def analyze(request):
 
 #def hel(request):
   #  dj = request.GET.get('text', 'default')
-   # print(dj)
+  # print(dj)
     #return HttpResponse('Hello this is'+ dj)
